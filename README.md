@@ -73,34 +73,13 @@
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
-<div align='left'>
 
-<ul style="display: inline-block;" >
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/margish-patel/)
+[![dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/margish288)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:margishpatel288@gmail.com)
 
-<li>
-<a href="https://www.linkedin.com/in/margish-patel/" target="_blank">
-<img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png"  height=30px  alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
 
-<br>
 
-<li>
-<a href="#" target="_blank">
-<img alt=twitter src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" height=30px style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:margishpatel288@gmail.com" target="_blank">
-<img  src="https://github.com/margish288/margish288/assets/151380685/29ceae87-7b0c-4b9d-8657-6dc54db600c1"  height=30px   alt=mail t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
